@@ -43,12 +43,12 @@
             <dependency>
                 <groupId>com.amazonaws</groupId>
                 <artifactId>aws-java-sdk-ssm</artifactId>
-                <version>1.11.898</version>
+                <version>1.12.114</version>
             </dependency>
             <dependency>
                 <groupId>com.amazonaws</groupId>
                 <artifactId>aws-java-sdk-core</artifactId>
-                <version>1.11.898</version>
+                <version>1.12.114</version>
             </dependency>  
         </dependencies>
     </dependencyManagement>
